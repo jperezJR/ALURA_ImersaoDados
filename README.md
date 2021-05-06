@@ -6,4 +6,4 @@ Jupyter Notebooks para cada aula da Imersao de Dados Alura.
 Total de cinco aulas.
 
 
-![ALURA_img](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/dibk1ba07iflqhldupuz)
+![ALURA_img](https://www.alura.com.br/assets/img/imersoes/general/og-imersao-alura.1616501197.png)
